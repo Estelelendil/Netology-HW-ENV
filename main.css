@@ -1,0 +1,1 @@
+body{color:#999}.box{align-items:center;display:flex;justify-content:center;padding-top:80px;width:100%}.container{display:grid;gap:10px;grid-auto-rows:min-content;grid-template-columns:repeat(4,60px);width:266px}.cell{align-items:center;border:3px solid red;border-radius:5px;display:flex;height:50px;justify-content:center;width:50px}.goblin{height:40px;width:40px}
